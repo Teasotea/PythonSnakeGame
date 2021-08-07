@@ -1,3 +1,3 @@
 # PythonSnakeGame
 
-This is a simple python snake game, which was developed during DRLabs Course
+This is a simple python snake game, developed during DRLabs Course
